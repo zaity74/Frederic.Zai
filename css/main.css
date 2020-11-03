@@ -1,0 +1,10 @@
+@import'header.css';
+@import'Apropos.css';
+@import'Création.css';
+@import'contact.css';
+@import'intro.css';
+
+body{
+    margin: 0;
+    background-color:#d4f209
+}

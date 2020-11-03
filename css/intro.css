@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background-color:#d4f209
+}
+.intro
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 22%;
+}
+.intro a
+{
+   color: white;
+   font-family: 'Monoton';
+   font-size: 60px;
+   text-decoration: none;
+   text-transform: uppercase;
+}
+
+.point
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: black;
+    margin: auto;
+
+}
